@@ -1,8 +1,8 @@
 # Continuous Intelligence and Interactive Analytics - Getting Started
 
-- GitHub Pages Website: [cintel-01-getting-started](https://denisecase.github.io/cintel-01-getting-started/)
-- GitHub Repository: [cintel-01-getting-started](https://github.com/denisecase/cintel-01-getting-started)
-- Author: [Denise Case](https://github.com/denisecase)
+- GitHub Pages Website: [cintel-01-getting-started](https://geckog.github.io/cintel-01-getting-started/)
+- GitHub Repository: [cintel-01-getting-started](https://github.com/geckog/cintel-01-getting-started)
+- Author: [Matt Goeckel](https://github.com/geckog)
 
 
 We begin with two important tools: Git and VS Code. 
